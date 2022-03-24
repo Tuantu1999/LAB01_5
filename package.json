@@ -1,0 +1,24 @@
+{
+  "name": "git_test_lab1_05",
+  "version": "1.0.0",
+  "description": "this is lab1 number5",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuantu1999/LAB01_5.git"
+  },
+  "author": "TuanTu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuantu1999/LAB01_5/issues"
+  },
+  "homepage": "https://github.com/Tuantu1999/LAB01_5#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
